@@ -2,8 +2,6 @@
 
 A clean, responsive weather application built with HTML, CSS, and JavaScript that fetches real-time weather data.
 
-![Weather Sense Screenshot](image.png)
-
 ## Features
    Search weather by city name
    Fully responsive design
